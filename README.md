@@ -29,4 +29,4 @@ That will open a new browser tab that contains the replica web page.  The page w
 
 1. This landing page represents the understanding and implementation of the **Javascript DOM** and the progression of the developer's web developing skills over the course of the 3 months with Udacity.
 2. It is a static landing page made dynamic using Javascript.
-2. The landing page allows for the user to experience a seamless transition from one section of the page to the next using the navigation bar above. 
+2. The landing page allows for the user to experience a seamless transition from one section of the page to the next using the navigation bar above using code like the behavior `smooth`.
